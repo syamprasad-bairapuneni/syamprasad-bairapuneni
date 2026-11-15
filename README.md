@@ -17,7 +17,6 @@
 I'm a Computer Science graduate (AI & ML) who enjoys turning raw data into clear business answers. I work mainly with **SQL**, **Python**, and **Power BI**, and I'm looking for **Data Analyst / Junior BI** roles.
 
 - 🔍 Seeking **Data Analyst / Junior BI** roles
-- 🧠 Solved 100+ SQL problems on LeetCode & HackerRank
 - 📊 Building portfolio projects on real datasets
 
 ---
@@ -35,6 +34,13 @@ I'm a Computer Science graduate (AI & ML) who enjoys turning raw data into clear
 
 ## 📂 Featured Projects
 
+### 📊 [HR Attrition Power BI Dashboard](https://github.com/syamprasad-bairapuneni/HR-Attrition-Dashboard)
+> **Power BI (DAX, Power Query)** — Nov 2026
+
+- Built a one-page dashboard on 1,470 employee records (IBM HR dataset) with 4 KPI cards and 4 charts
+- Found overtime workers leave at 30.53%, about three times the 10.44% rate of non-overtime workers
+- Found employees in their first two years leave at 29.82%, vs 8.13% for those with 10+ years
+
 ### 🛒 [Brazil E-Commerce SQL Analysis](https://github.com/syamprasad-bairapuneni/Brazilian-Ecommerce-SQL-Analysis)
 > **SQL (SQLite)** — Nov 2026
 
@@ -48,10 +54,6 @@ I'm a Computer Science graduate (AI & ML) who enjoys turning raw data into clear
 ## 📜 Certifications
 
 - 🏅 **AI-Powered Data Analytics** — Frontlines EduTech (FLM AI) — 2025
-
----
-
-
 
 ---
 
